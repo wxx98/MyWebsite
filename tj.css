@@ -1,0 +1,166 @@
+body{
+    background-color: whitesmoke;
+    margin:0 auto;
+    background-size: 100%;
+    background-image: url(tjbj.jpg);
+}
+.nav{
+    display:inline-block;
+    margin:0 auto;
+    width:100%;
+    padding:0;
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+ul{
+    margin:0 auto;
+    padding:0;
+    margin-top: 15px;
+}
+li{
+    margin:0 auto;
+    list-style-type: none;
+    display:inline-block;
+}
+a{
+    text-decoration: none;
+    border-radius: 3px;
+    color:rgb(3, 3, 3);
+    font-family: 黑体;
+    font-size: 18px;
+    padding:20px 20px; 
+}
+a:hover{
+    width:20px;
+    height:20px;
+    background-color: rgba(236, 233, 230, 0.384);
+    transition-delay:150ms;
+    transition-duration:500ms;
+}
+
+.s{
+    float:left;
+    margin: 0 auto;
+    display:inline-block;
+    margin-left: 130px;
+    width:740px;
+    height:1100px;
+
+}
+.s1{
+    margin: 10px auto;
+    display:inline-block; 
+    padding:0 15px;
+    width:140px;
+    height:180px;
+    border-radius: 4%;
+}
+.s1:hover{
+    width:140px;
+    height:180px;
+    background-color: rgba(236, 233, 230, 0.384);
+    transition-delay:150ms;
+    transition-duration:500ms;
+}
+.i1{
+    margin:0 auto;
+    width:130px;
+    height:130px;
+}
+.i2{
+    margin:0 auto;
+    width:110px;
+    height:90px;
+}
+.p1{
+    text-indent: 17px;
+    border-bottom:1px solid black;
+    width:730px;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+    font-size: 22px;
+    font-family: 黑体;
+}
+.p2{
+    font-size: 14px;
+}
+.s2{
+    margin: 0 auto;
+    display:inline-block; 
+    padding:0 15px;
+    width:105px;
+    height:150px;
+    border-radius: 4%;
+}
+.s2:hover{
+    width:105px;
+    height:150px;
+    background-color: rgba(236, 233, 230, 0.384);
+    transition-delay:150ms;
+    transition-duration:500ms;
+}
+
+.t{
+    float:left;
+    display: inline-block;
+    margin:0 auto;
+    padding:0 50px;
+    height:1100px;
+    width:200px;
+
+}
+.all{
+    display: inline-block;
+    margin:0 auto;
+    width:100%;
+    height:1100px;
+
+}
+.i3{
+    display:inline-block;
+    width:90px;
+    height:90px;
+    margin:0 auto;
+}
+.p3{
+    font-family:黑体;
+    font-size:20px;
+    border-bottom: solid 1px black;
+    padding-top: 10px;
+}
+.x{
+    float:left;
+    display:inline-block;
+    margin:0 auto;
+    width:90px;
+    height:90px;
+    padding: 0 3px;
+}
+.y:hover{
+    width:90px;
+    height:90px;
+    background-color: rgba(236, 233, 230, 0.384);
+    transition-delay:150ms;
+    transition-duration:500ms;
+}
+.y{
+    float:left;
+    display:inline-block;
+    margin:20px auto;
+    width:90px;
+    height:90px;
+    padding: 0 5px;
+    border-left: 1px solid rgba(245, 245, 245, 0);
+    border-right: 1px solid rgba(245, 245, 245, 0);
+}  
+.x1{
+    font-size: 13px;
+    margin:0 auto;
+}
+.x2{
+    padding-top:10px;
+    font-size: 15px;
+}
+
